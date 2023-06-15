@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "phoo",
+      "image": "http://localhost:3000/images/pothos.jpg",
+      "price": "45",
+      "id": 8
     }
   ]
 }
